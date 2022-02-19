@@ -1,0 +1,3 @@
+-Iinc
+-target
+x86_64-elf
